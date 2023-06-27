@@ -1,0 +1,51 @@
+body
+
+{
+
+  text-align: center;
+
+}
+
+
+
+#app {
+
+  background-color: rgb(212, 149, 209);
+
+}
+
+h1, h2, h5 {
+
+  font-size: 40px;
+
+  font-family: 'Cinzel Decorative', cursive;
+
+  font-weight: 300;
+
+  text-align: center; 
+
+}
+
+.linea {
+
+    height: 6px;
+  
+    background-color: #a11bd6;
+  
+    width:400px;
+  
+   
+  
+    margin: 8px auto;
+  
+  }
+  
+  
+  
+  #myCarousel
+  
+  {
+  
+    background-color:lightcoral;
+  
+  }
